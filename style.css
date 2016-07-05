@@ -122,6 +122,10 @@ section:nth-child(2n) {
   font-size: 18px;
 }
 
+#summary {
+  text-align: center;
+}
+
 #menu {
   position: fixed;
   top: 35px;
@@ -196,6 +200,11 @@ section:nth-child(2n) {
 
   #tagline {
     font-size: 12px;
+  }
+
+  #summary {
+    font-size: 12px;
+
   }
 }
 
