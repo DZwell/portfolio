@@ -61,7 +61,7 @@ code {
 
 h1 {
   margin-top: 0;
-  font-size: 2em;
+  font-size: 2em, 'Roboto';
 }
 
 h1:not(:first-child) {
@@ -119,11 +119,7 @@ section:nth-child(2n) {
 }
 
 #tagline {
-  font-size: 18px;
-}
-
-#summary {
-  text-align: center;
+  font-size: 18px 'Roboto';
 }
 
 #menu {
@@ -200,11 +196,6 @@ section:nth-child(2n) {
 
   #tagline {
     font-size: 12px;
-  }
-
-  #summary {
-    font-size: 12px;
-
   }
 }
 
