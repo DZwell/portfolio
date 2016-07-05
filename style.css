@@ -97,6 +97,12 @@ section:nth-child(2n) {
   height: 100%;
 }
 
+.links {
+  list-style-type: none;
+  font-size: 2em;
+
+}
+
 #heading {
   -webkit-user-select: none;
   position: absolute;
@@ -112,7 +118,7 @@ section:nth-child(2n) {
 }
 
 #tagline {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 #menu {
