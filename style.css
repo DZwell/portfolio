@@ -100,6 +100,7 @@ section:nth-child(2n) {
 .links {
   list-style-type: none;
   font-size: 2em;
+  text-align: center;
 
 }
 
