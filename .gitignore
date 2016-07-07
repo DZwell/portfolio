@@ -83,6 +83,7 @@ venv/
 ENV/
 bin/
 include/
+share/
 pip-selfcheck.json
 
 # Spyder project settings
